@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">BootcampApp</string>
+    <string name="password">Password</string>
+    <string name="signup">SIGNUP</string>
+    <string name="username">USERNAME</string>
+    <string name="email_id">Email-Id</string>
+    <string name="Phone_No">PhoneNo.</string>
+    <string name="email">Email</string>
+    <string name="Username">Username</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="enter_email">Enter email</string>
+    <string name="enter_phone_number">Enter phone number</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="usernameHome">Username</string>
+    <string name="welcome_akshit">Welcome Akshit</string>
+    <string name="browse">BROWSE</string>
+    <string name="enter_url">Enter URL</string>
+    <string name="check_permission">Check Permission</string>
+</resources>
